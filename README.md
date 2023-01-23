@@ -2,7 +2,7 @@
 
 steps:
 
-- Thinking about the UI
+-  UI(HTML,CSS)
 - Functionality
 	- Add a TODO
 	- Delete a TODO
@@ -10,7 +10,7 @@ steps:
 	- total items count
 - Data
 	- tasks - an array
-	- task - {done, text, id}
+	- task - {title,id,complete:true/false}
 - Functions (in code)
 	- addTodo
 	- deleteTodo
